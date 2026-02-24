@@ -1,6 +1,6 @@
 # Bagger
 
-Grabs newly released articles of yesterday and sends them to the configured email.
+Checks the websites of BGE (bger.ch) and ZZS (gerichte-zh.ch) for new rulings and sends a summary to the email address specified in the config.
 
 ## Installation
 
