@@ -1,0 +1,8 @@
+# Bagger config
+
+smtp_server_address = ""
+email_sender = ""
+password = ""
+
+email_to = ""
+email_cc = ""
